@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Paul1000.TaskPlanner.DataAccess.Abstractions\Paul1000.TaskPlanner.DataAccess.Abstractions.csproj" />
     <ProjectReference Include="..\Paul1000.TaskPlanner.Domain.Logic\Paul1000.TaskPlanner.Domain.Logic.csproj" />
     <ProjectReference Include="..\Paul1000.TaskPlanner.Domain.Models\Paul1000.TaskPlanner.Domain.Models.csproj" />
   </ItemGroup>

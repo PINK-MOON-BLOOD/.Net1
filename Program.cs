@@ -1,4 +1,4 @@
-﻿using Paul1000.TaskPlanner.Domain.Logic_;
+﻿using Paul1000.TaskPlanner.Domain.Logic;
 using Paul1000.TaskPlanner.Domain.Models_;
 using Paul1000.TaskPlanner.Domain.Models_.Enums;
 

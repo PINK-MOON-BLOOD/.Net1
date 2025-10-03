@@ -1,0 +1,11 @@
+D:\3 курс 1семестр\.Net1\Paul1000.TaskPlanner.Domain.Models\bin\Debug\net8.0\Paul1000.TaskPlanner.Domain.Models.deps.json
+D:\3 курс 1семестр\.Net1\Paul1000.TaskPlanner.Domain.Models\bin\Debug\net8.0\Paul1000.TaskPlanner.Domain.Models.dll
+D:\3 курс 1семестр\.Net1\Paul1000.TaskPlanner.Domain.Models\bin\Debug\net8.0\Paul1000.TaskPlanner.Domain.Models.pdb
+D:\3 курс 1семестр\.Net1\Paul1000.TaskPlanner.Domain.Models\obj\Debug\net8.0\Paul1000.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс 1семестр\.Net1\Paul1000.TaskPlanner.Domain.Models\obj\Debug\net8.0\Paul1000.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+D:\3 курс 1семестр\.Net1\Paul1000.TaskPlanner.Domain.Models\obj\Debug\net8.0\Paul1000.TaskPlanner.Domain.Models.AssemblyInfo.cs
+D:\3 курс 1семестр\.Net1\Paul1000.TaskPlanner.Domain.Models\obj\Debug\net8.0\Paul1000.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+D:\3 курс 1семестр\.Net1\Paul1000.TaskPlanner.Domain.Models\obj\Debug\net8.0\Paul1000.TaskPlanner.Domain.Models.dll
+D:\3 курс 1семестр\.Net1\Paul1000.TaskPlanner.Domain.Models\obj\Debug\net8.0\refint\Paul1000.TaskPlanner.Domain.Models.dll
+D:\3 курс 1семестр\.Net1\Paul1000.TaskPlanner.Domain.Models\obj\Debug\net8.0\Paul1000.TaskPlanner.Domain.Models.pdb
+D:\3 курс 1семестр\.Net1\Paul1000.TaskPlanner.Domain.Models\obj\Debug\net8.0\ref\Paul1000.TaskPlanner.Domain.Models.dll
